@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Nanosoft.Email.ConsoleTest/1.0.0": {
+        "dependencies": {
+          "Nanosoft.Email": "1.0.0"
+        },
+        "runtime": {
+          "Nanosoft.Email.ConsoleTest.dll": {}
+        }
+      },
+      "Nanosoft.Email/1.0.0": {
+        "runtime": {
+          "Nanosoft.Email.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nanosoft.Email.ConsoleTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Nanosoft.Email/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

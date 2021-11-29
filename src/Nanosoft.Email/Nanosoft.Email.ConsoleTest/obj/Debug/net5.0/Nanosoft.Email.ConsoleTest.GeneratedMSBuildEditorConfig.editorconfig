@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Nanosoft.Email.ConsoleTest
+build_property.ProjectDir = c:\Users\ramos\source\repos\Nanosoft.Email.Standard\src\Nanosoft.Email\Nanosoft.Email.ConsoleTest\
