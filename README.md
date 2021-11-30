@@ -25,7 +25,7 @@ As the message says, allowing less secure apps is not recommended. So while it's
         {
             var AdminUser = new LoginToEmail("your-name@company-name.com","your-password");
             
-            AdminUser.AddCC("cc-one@name.com","cc-two@name.com");
+            AdminUser.AddCC("cc-one@name.com","cc-two@name.com", ...); //params string[]
             
             AdminUser.SendNewEmail(
                 // To
