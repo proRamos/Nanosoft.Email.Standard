@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ramos\\source\\repos\\Nanosoft.Email\\Nanosoft.Email\\Nanosoft.Email.csproj": {}
+    "C:\\Users\\ramos\\source\\repos\\Nanosoft.Email.Standard\\src\\Nanosoft.Email\\Nanosoft.Email\\Nanosoft.Email.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ramos\\source\\repos\\Nanosoft.Email\\Nanosoft.Email\\Nanosoft.Email.csproj": {
+    "C:\\Users\\ramos\\source\\repos\\Nanosoft.Email.Standard\\src\\Nanosoft.Email\\Nanosoft.Email\\Nanosoft.Email.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ramos\\source\\repos\\Nanosoft.Email\\Nanosoft.Email\\Nanosoft.Email.csproj",
+        "projectUniqueName": "C:\\Users\\ramos\\source\\repos\\Nanosoft.Email.Standard\\src\\Nanosoft.Email\\Nanosoft.Email\\Nanosoft.Email.csproj",
         "projectName": "Nanosoft.Email",
-        "projectPath": "C:\\Users\\ramos\\source\\repos\\Nanosoft.Email\\Nanosoft.Email\\Nanosoft.Email.csproj",
+        "projectPath": "C:\\Users\\ramos\\source\\repos\\Nanosoft.Email.Standard\\src\\Nanosoft.Email\\Nanosoft.Email\\Nanosoft.Email.csproj",
         "packagesPath": "C:\\Users\\ramos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ramos\\source\\repos\\Nanosoft.Email\\Nanosoft.Email\\obj\\",
+        "outputPath": "C:\\Users\\ramos\\source\\repos\\Nanosoft.Email.Standard\\src\\Nanosoft.Email\\Nanosoft.Email\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections;
+using System.Collections.Generic;
 using Nanosoft.Email;
 /*
     See a simple example of how to use it.
@@ -9,13 +11,15 @@ namespace Nanosoft.Email.ConsoleTest
     {
         static void Main(string[] args)
         {
-            var AdminUser = new LoginToEmail("your-name@company-name.com","your-password");
-            
-            AdminUser.AddCC("cc-one@name.com","cc-two@name.com");
-            
+            var AdminUser = new LoginToEmail("test@name.com","password"); // Your credentials
+
+            AdminUser.AddCC("test1@name.com"); // Add a CC
+
+            AdminUser.AddBCC("test2@name.com");// Add a BCC
+
             AdminUser.SendNewEmail(
                 // To
-                "send-to@name.com",
+                "test3@name.com",
 
                 // Subject
                 "Subject",

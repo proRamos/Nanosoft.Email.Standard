@@ -10,3 +10,15 @@ C:\Users\ramos\source\repos\Nanosoft.Email\Nanosoft.Email\obj\Debug\net5.0\Nanos
 C:\Users\ramos\source\repos\Nanosoft.Email\Nanosoft.Email\obj\Debug\net5.0\Nanosoft.Email.dll
 C:\Users\ramos\source\repos\Nanosoft.Email\Nanosoft.Email\obj\Debug\net5.0\ref\Nanosoft.Email.dll
 C:\Users\ramos\source\repos\Nanosoft.Email\Nanosoft.Email\obj\Debug\net5.0\Nanosoft.Email.pdb
+C:\Users\ramos\source\repos\Nanosoft.Email.Standard\src\Nanosoft.Email\Nanosoft.Email\bin\Debug\net5.0\Nanosoft.Email.deps.json
+C:\Users\ramos\source\repos\Nanosoft.Email.Standard\src\Nanosoft.Email\Nanosoft.Email\bin\Debug\net5.0\Nanosoft.Email.dll
+C:\Users\ramos\source\repos\Nanosoft.Email.Standard\src\Nanosoft.Email\Nanosoft.Email\bin\Debug\net5.0\ref\Nanosoft.Email.dll
+C:\Users\ramos\source\repos\Nanosoft.Email.Standard\src\Nanosoft.Email\Nanosoft.Email\bin\Debug\net5.0\Nanosoft.Email.pdb
+C:\Users\ramos\source\repos\Nanosoft.Email.Standard\src\Nanosoft.Email\Nanosoft.Email\obj\Debug\net5.0\Nanosoft.Email.csproj.AssemblyReference.cache
+C:\Users\ramos\source\repos\Nanosoft.Email.Standard\src\Nanosoft.Email\Nanosoft.Email\obj\Debug\net5.0\Nanosoft.Email.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramos\source\repos\Nanosoft.Email.Standard\src\Nanosoft.Email\Nanosoft.Email\obj\Debug\net5.0\Nanosoft.Email.AssemblyInfoInputs.cache
+C:\Users\ramos\source\repos\Nanosoft.Email.Standard\src\Nanosoft.Email\Nanosoft.Email\obj\Debug\net5.0\Nanosoft.Email.AssemblyInfo.cs
+C:\Users\ramos\source\repos\Nanosoft.Email.Standard\src\Nanosoft.Email\Nanosoft.Email\obj\Debug\net5.0\Nanosoft.Email.csproj.CoreCompileInputs.cache
+C:\Users\ramos\source\repos\Nanosoft.Email.Standard\src\Nanosoft.Email\Nanosoft.Email\obj\Debug\net5.0\Nanosoft.Email.dll
+C:\Users\ramos\source\repos\Nanosoft.Email.Standard\src\Nanosoft.Email\Nanosoft.Email\obj\Debug\net5.0\ref\Nanosoft.Email.dll
+C:\Users\ramos\source\repos\Nanosoft.Email.Standard\src\Nanosoft.Email\Nanosoft.Email\obj\Debug\net5.0\Nanosoft.Email.pdb

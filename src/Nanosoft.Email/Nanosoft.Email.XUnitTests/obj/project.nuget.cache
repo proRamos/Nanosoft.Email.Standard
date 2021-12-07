@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QOAqvi0zthMOL53vah2yahlVbu1VCXubGM59iRMbHU8OCLNHWaNx3GJJC0cYB91BM0KfmGEsevJaDJebg83J1Q==",
+  "dgSpecHash": "mvHvy1NGoFlrKv09WkT6IQkNsvwTEUOWTq8R0AyYOasK0T7Il4OKydLLQ8t4+Cz0H12yWhGTfwIMefAiaz85rw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ramos\\source\\repos\\Nanosoft.Email\\Nanosoft.Email.XUnitTests\\Nanosoft.Email.XUnitTests.csproj",
+  "projectFilePath": "C:\\Users\\ramos\\source\\repos\\Nanosoft.Email.Standard\\src\\Nanosoft.Email\\Nanosoft.Email.XUnitTests\\Nanosoft.Email.XUnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ramos\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\ramos\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
