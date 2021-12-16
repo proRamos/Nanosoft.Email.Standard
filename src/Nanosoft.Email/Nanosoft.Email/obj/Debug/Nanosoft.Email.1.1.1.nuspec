@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Nanosoft.Email</id>
+    <version>1.1.1</version>
+    <authors>Protásio Ramos</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/proRamos/Nanosoft.Email.Standard</projectUrl>
+    <description>Send emails easily from any .net standard application.</description>
+    <tags>email, emails, send emails, messages, .Net Standard</tags>
+    <repository url="https://github.com/proRamos/Nanosoft.Email.Standard" />
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\ramos\source\repos\Nanosoft.Email.Standard\src\Nanosoft.Email\Nanosoft.Email\bin\Debug\net5.0\Nanosoft.Email.dll" target="lib\net5.0\Nanosoft.Email.dll" />
+  </files>
+</package>

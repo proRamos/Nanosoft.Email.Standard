@@ -1671,7 +1671,7 @@
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
       },
-      "Nanosoft.Email/1.0.0": {
+      "Nanosoft.Email/1.1.1": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "compile": {
@@ -5917,7 +5917,7 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "Nanosoft.Email/1.0.0": {
+    "Nanosoft.Email/1.1.1": {
       "type": "project",
       "path": "../Nanosoft.Email/Nanosoft.Email.csproj",
       "msbuildProject": "../Nanosoft.Email/Nanosoft.Email.csproj"
@@ -5926,7 +5926,7 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "Microsoft.NET.Test.Sdk >= 16.9.4",
-      "Nanosoft.Email >= 1.0.0",
+      "Nanosoft.Email >= 1.1.1",
       "coverlet.collector >= 3.0.2",
       "xunit >= 2.4.1",
       "xunit.runner.visualstudio >= 2.4.3"

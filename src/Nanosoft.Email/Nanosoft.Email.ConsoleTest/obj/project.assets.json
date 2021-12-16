@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net5.0": {
-      "Nanosoft.Email/1.0.0": {
+      "Nanosoft.Email/1.1.1": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "compile": {
@@ -15,7 +15,7 @@
     }
   },
   "libraries": {
-    "Nanosoft.Email/1.0.0": {
+    "Nanosoft.Email/1.1.1": {
       "type": "project",
       "path": "../Nanosoft.Email/Nanosoft.Email.csproj",
       "msbuildProject": "../Nanosoft.Email/Nanosoft.Email.csproj"
@@ -23,7 +23,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Nanosoft.Email >= 1.0.0"
+      "Nanosoft.Email >= 1.1.1"
     ]
   },
   "packageFolders": {

@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections;
-using System.Collections.Generic;
 using Nanosoft.Email;
 /*
     See a simple example of how to use it.

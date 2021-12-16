@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "Nanosoft.Email/1.0.0": {
+      "Nanosoft.Email/1.1.1": {
         "runtime": {
           "Nanosoft.Email.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "Nanosoft.Email/1.0.0": {
+    "Nanosoft.Email/1.1.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
