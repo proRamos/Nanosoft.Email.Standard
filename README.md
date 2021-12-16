@@ -6,7 +6,7 @@
 Nanosoft.Email is open source and meets your main .NET needs to make sending email messages as easy as possible. Licensed by MIT.
 
 
-### How to use?
+### How to use? (1.0.0)
 
 .NET and .NET Core come with built-in support for sending email through the System.Net.Mail namespace, the library used. However, you will need an SMTP server for this to work.
 
@@ -47,5 +47,51 @@ As the message says, allowing less secure apps is not recommended. So while it's
 ```
 Good! Now you can send email messages even through the console application, congratulations!
 
+## Version 1.1.1
+### What's new?
 
-My [LinkedIn](https://www.linkedin.com/in/proramos/) ;)
+Some internal settings have been changed and you can now send a message to a Bcc.
+
+### Example
+
+```csharp
+using System;
+using Nanosoft.Email;
+/*
+    See a simple example of how to use it.
+*/
+namespace Nanosoft.Email.ConsoleTest
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            var AdminUser = new LoginToEmail("test@name.com","password"); // Your credentials
+
+            AdminUser.AddCC("test1@name.com"); // Add a CC
+
+            AdminUser.AddBCC("test2@name.com");// Add a BCC
+
+            AdminUser.SendNewEmail(
+                // To
+                "test3@name.com",
+
+                // Subject
+                "Subject",
+
+                // Body
+                "<h1>Hello!</h1>" +
+                "<h2>Welcome, developer!</h2>" +
+                "<p>This is my body's message!</p>",
+
+                // Is your body's message of the html type?
+                true
+                );
+        }
+    }
+}
+
+```
+
+[Library from Nuget](https://www.nuget.org/packages/Nanosoft.Email/1.1.1)
+ | My [LinkedIn](https://www.linkedin.com/in/proramos/) ;)
